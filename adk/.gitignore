@@ -1,0 +1,12 @@
+.env
+refresher.py
+myenv/
+__pycache__
+generated_materials/
+images/
+output/
+orchestrationagent/edsphere-ai-firebase-adminsdk-fbsvc-30700780ed.json
+orchestrationagent/edvancespectra-466817-9f0a78fb0805.json
+orchestrationagent/sahayak-edusphere-91be737bd25c.json
+orchestrationagent/sahayak-edusphere-df930-firebase-adminsdk-fbsvc-14aeedbb2c.json
+orchestrationagent/sahayak-edusphere-df930.json

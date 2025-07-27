@@ -1,0 +1,8 @@
+{
+  "name": "orchestration_agent",
+  "description": "An educational orchestration agent that coordinates sub agents like content generation, evaluation, scheduling, and mentorship",
+  "endpoints": [
+    "run"
+  ],
+  "version": "1.0.0"
+}

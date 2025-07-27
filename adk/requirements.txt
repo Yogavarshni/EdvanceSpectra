@@ -1,0 +1,14 @@
+google-adk
+reportlab
+pandas
+python-pptx
+moviepy
+imageio_ffmpeg
+python-dotenv
+fpdf
+google-cloud-aiplatform 
+google-generativeai  
+vertexai
+fastapi 
+uvicorn 
+firebase-admin
